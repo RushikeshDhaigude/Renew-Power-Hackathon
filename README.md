@@ -26,3 +26,6 @@ In this hackathon, ReNew Power shared minute-wise normalised data of wind speed,
 14. wind_speed_turbulence - Variation in Wind Speed
 15. turbine_id - Id of various turbines
 16. Target - Rotor bearing temperature
+
+## Evaluation Metric:
+- Mean Absolute Percentage Error (MAPE)
